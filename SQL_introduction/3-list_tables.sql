@@ -1,2 +1,2 @@
---script to create a new database and check if it not excist
+-- script to create the database hbtn_0c_0 if it does not already exist
 SHOW TABLES;
