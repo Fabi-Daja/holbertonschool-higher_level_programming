@@ -1,2 +1,2 @@
--- script to create the database hbtn_0c_0 if it does not already exist
+-- script that lists all databases of the MySQL server
 SHOW DATABASES;
