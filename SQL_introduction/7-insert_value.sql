@@ -1,2 +1,2 @@
--- script to insert a new value in the table first_table
-INSERT INTO first_table (id, name) VALUES (89, 'Best School');
+-- script to list all databases;
+INSERT INTO first_table (id ,name) VALUES(89,"Best School");

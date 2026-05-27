@@ -1,2 +1,2 @@
--- script to show the full description of the table first_table
+-- script to list all databases;
 SHOW CREATE TABLE first_table;

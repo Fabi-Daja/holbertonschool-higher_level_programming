@@ -1,2 +1,2 @@
--- script to list all values in the table first_table
+-- script to list all databases;
 SELECT * FROM first_table;

@@ -1,2 +1,3 @@
--- script to create the database hbtn_0c_0 if it does not already exist
-CREATE TABLE if not exists first_table(id INT,name varchar(256));
+-- script to list all databases;
+
+CREATE TABLE IF NOT EXISTS first_table (id INT ,name VARCHAR(256));

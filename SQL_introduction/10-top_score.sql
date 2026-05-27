@@ -1,2 +1,3 @@
--- script that lists all records of the table second_table ordered by score (top first)
-SELECT score, name FROM second_table ORDER BY score DESC;
+-- script to list all databases;
+
+SELECT   score, name FROM second_table ORDER BY  score DESC;

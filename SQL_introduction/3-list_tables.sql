@@ -1,2 +1,3 @@
--- script to create the database hbtn_0c_0 if it does not already exist
+-- script to list all databases;
+
 SHOW TABLES;
